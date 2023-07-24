@@ -5,3 +5,6 @@ Olá pessoal! Queria compartilhar com vocês o meu mais recente projeto web, ond
 Foi realmente empolgante trabalhar nesse projeto, pois me desafiei a usar elementos e códigos para limitar o tamanho das imagens e também implementar animações para dar vida ao jogo.
 
 Acredito que esse projeto me permitiu aprofundar minhas habilidades em programação e me proporcionou uma experiência valiosa em desenvolvimento web.
+
+
+![jump_challenge](https://github.com/Matheus-Marqs/jump_challenge/assets/122241579/0a210286-c98e-49ef-b254-639accefee44)
